@@ -4,3 +4,5 @@
 https://yandex.ru/cup/algorithm/analysis/
 
 1. mirrorTime.cpp - А. Время в зазеркалье
+
+2. palindrome.cpp - B. Фактор полиндромности
