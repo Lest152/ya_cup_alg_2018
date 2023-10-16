@@ -8,3 +8,5 @@ https://yandex.ru/cup/algorithm/analysis/
 2. palindrome.cpp - B. Фактор полиндромности
 
 3. division.cpp   - C. Разделите их все
+
+4. interview.cpp  - D. Задача для собеседования
